@@ -4,6 +4,8 @@
 
 This full-stack project implements a basic web application that allows performing CRUD operations on a list of categories and mathematical calculations (scenario probabilities). The backend API is built with **ASP.NET Core**, and the frontend uses **HTML**, **JavaScript**, and **CSS** to interact with the API via HTTP requests.
 
+![](/assets/InfrastructureOverloadTest.gif)
+
 ### Technologies Used
 
 1. **Backend:**
